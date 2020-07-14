@@ -3,3 +3,4 @@
 User-agent: *
 
 modifica rebase per il branch
+modifica dopo rebase con master
