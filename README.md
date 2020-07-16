@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 
 ##modifica master
 ##Altra modifica myfeature
+
+##modifica git stash
