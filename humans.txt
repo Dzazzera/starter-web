@@ -6,7 +6,8 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+    rebase modifica fatta nel master
+    seconda modifica fatta dopo
     <name>
 
 # TECHNOLOGY COLOPHON
